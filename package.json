@@ -1,0 +1,40 @@
+{
+  "name": "toanglong346",
+  "version": "1.3.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+"thinhquylat": "^1.0.0",
+"binhtam45": "^1.0.0",
+"tonhue456": "^1.0.0",
+"longan4573": "^1.0.0",
+"hanma46": "^1.0.0",
+"pham557": "^1.0.0",
+"haam8766": "^1.0.0",
+"hungthuan457": "^1.0.0",
+"hungnam457": "^1.0.0",
+"phamduc75": "^1.0.0",
+"phung47457": "^1.0.0",
+"nam65678": "^1.0.0",
+"vinhgia3464": "^1.0.0",
+"tam4573": "^1.0.0",
+"minhtoang6346": "^1.0.0",
+"thuans568": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toanglong346/toanglong346"
+  },
+  "homepage": "https://twitter.com/toanglong346",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "toanglong346",
+  "license": "MIT"
+}
